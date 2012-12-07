@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FeliCa Lite Writer</string>
+    <string name="title_activity_home">FeliCa Lite Writer</string>
+    <string name="touch_a_card">カードをタッチしてください</string>
+    <string name="not_felica">FeliCaではありません</string>
+    <string name="wrote_ndef">NDEFを書き込みました</string>
+    <string name="url">URL</string>
+    <string name="ok">OK</string>
+    <string name="invalid_url">URLが不正な値です</string>
+
+</resources>
